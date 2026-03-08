@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "カサブタ",
+  "base_artist": "遠藤正明",
+  "createdAt": "2026-03-08T05:59:07.793954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カサブタ",
+      "artist": "Masaaki Endoh",
+      "has_synced": true,
+      "path": "select/01_カサブタ_Masaaki_Endoh.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kasabuta [カサブタ]",
+      "artist": "Masaaki Endoh",
+      "has_synced": true,
+      "path": "select/02_Kasabuta_[カサブタ]_Masaaki_Endoh.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カサブタ",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_カサブタ_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カサブタ",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/04_カサブタ_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カサブタ - Cover",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/05_カサブタ_-_Cover_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カサブタ (金色のガッシュベル!!)",
+      "artist": "淺野勝盛",
+      "has_synced": true,
+      "path": "select/06_カサブタ_(金色のガッシュベル!!)_淺野勝盛.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カサブタ",
+      "artist": "Masaaki Endo",
+      "has_synced": true,
+      "path": "select/07_カサブタ_Masaaki_Endo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カサブタ",
+      "artist": "遠藤正明",
+      "has_synced": false,
+      "path": "select/pl_01_カサブタ_遠藤正明.txt"
+    }
+  ]
+}
